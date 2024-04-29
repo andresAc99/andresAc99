@@ -3,20 +3,8 @@
   <h1 align='center'> Hi 👋, I'm Andres Amancio</h1>
   <h3 align='center'> I am a passionate student of Data Science and Big Data, with programming skills in Python and R. I also have experience in front-end web       development and data visualization using Power BI. I am fascinated by technology and the business world, and I aspire to blend these areas to create innovative and efficient solutions.<h/3>
 
-### MISC
-
-<p>
-	
-![icons8-heroku](https://user-images.githubusercontent.com/76852813/172721998-708f82d2-e288-462e-a2fd-2ee471036151.svg)
-![icons8-raspberry-pi](https://user-images.githubusercontent.com/76852813/172732112-5119f3f5-16f0-4ddb-aa32-1926cb9f56a8.svg)
-
-
-
-
-
 	
 ## GitHub Stats
-
 
 |                                                                     My Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
