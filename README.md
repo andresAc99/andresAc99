@@ -1,7 +1,10 @@
-### Hi there 👋
+<div id='header' align='center'>
+  <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="200" />
+  <h1 align='center'> Hi 👋, I'm AndresAmc99</h1>
+  <h3 align='center'> I am a passionate student of Data Science and Big Data, with programming skills in Python and R. I also have experience in front-end web       development and data visualization using Power BI. I am fascinated by technology and the business world, and I aspire to blend these areas to create innovative and efficient solutions.<h/3>
 
 <!--
-**andresAc99/andresAc99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AndresAmc99/AndresAmc99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
