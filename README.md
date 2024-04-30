@@ -1,19 +1,23 @@
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 <h1 align="center">Hi 👋, I'm Andres Amancio</h1>
-<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
+<h3 align="center"> Forever IT Student | Data Science | Data Analyst</h3>
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **OOP with Java**
+- 🌱 **Welcome to my GitHub profile!**
+ I'm passionate about data analysis and data science, with experience in various areas such as business intelligence, development of analytical solutions, and programming. Currently,
+ I'm exploring new technologies and seeking creative ways to tackle complex problems.
 
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+- 🧑‍🎓 **What I know**
+  I have experience using tools such as Power BI, Excel, SQL Server, Python, and more.
+  I've worked on projects ranging from data analysis to predicting sales and market trends.
+  My background includes studies in Data Science and Big Data, as well as specialized courses in various technologies.
 
-- 💬 Ask me about **Web development | OOC**
+- ⚡ **"My goal is to be a data full stack."**
+  That's a joke, it doesn't even exist yet!
 
-- 📫 How to reach me **kaveen.dinethma@gmail.com**
-  
-- ⚡ Fun fact **Call me as KD**
+- 📫 How to reach me **andres.amancio@outlook.com**
 
 </td>
 <td width="50%" align="center">
