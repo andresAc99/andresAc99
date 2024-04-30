@@ -1,7 +1,10 @@
 <div id='header' align='center'>
   <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="200" />
-  <h1 align='center'> Hi 👋, I'm Andres Amancio</h1>
-  <h1 align='center'> Data Science - Data Analyst</h1>
-   <h1 align='center'> About Me</h1>
-  <h3 align='center'> I am a passionate student of Data Science and Big Data, with programming skills in Python and R. I also have experience in front-end web       development and data visualization using Power BI. I am fascinated by technology and the business world, and I aspire to blend these areas to create innovative and efficient solutions.<h/3>
+<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
+<h1 align="center">Hi 👋, I'm Andres Amancio</h1>
+<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
+<p align="center"> <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" alt="scar1109" /> </p>
 
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
