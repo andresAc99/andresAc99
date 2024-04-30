@@ -9,12 +9,12 @@
  I'm passionate about data analysis and data science, with experience in various areas such as business intelligence, development of analytical solutions, and programming. Currently,
  I'm exploring new technologies and seeking creative ways to tackle complex problems.
 
-- 🧑‍🎓 **What I know**
+- 🧑‍🎓 **What I know** <br>
   I have experience using tools such as Power BI, Excel, SQL Server, Python, and more.
   I've worked on projects ranging from data analysis to predicting sales and market trends.
   My background includes studies in Data Science and Big Data, as well as specialized courses in various technologies.
 
-- ⚡ **"My goal is to be a data full stack."**
+- ⚡ **"My goal is to be a data full stack."** <br>
   That's a joke, it doesn't even exist yet!
 
 - 📫 How to reach me **andres.amancio@outlook.com**
