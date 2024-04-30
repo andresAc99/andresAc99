@@ -5,7 +5,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 **Welcome to my GitHub profile!**
+- 🌱 **Welcome to my GitHub profile!** <br>
  I'm passionate about data analysis and data science, with experience in various areas such as business intelligence, development of analytical solutions, and programming. Currently,
  I'm exploring new technologies and seeking creative ways to tackle complex problems.
 
