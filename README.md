@@ -44,8 +44,7 @@
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=andresAc99&theme=algolia&hide_border=false" /> 
 </td>
   <td width="50%" align="center">
-    
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andresAc99&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+    <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andresAc99&theme=algolia&hide_border=false" />
   </td>
 </tr>
 </table>
