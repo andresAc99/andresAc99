@@ -16,7 +16,7 @@
  I'm exploring new technologies and seeking creative ways to tackle complex problems.
 
 - 🧑‍🎓 **What I know** <br>
-  I have experience using tools such as Power BI, Excel, SQL Server, Python, and more.
+  I have experience using tools such as Power BI, Excel, SQL Server, Python.
   I've worked on projects ranging from data analysis to predicting sales and market trends.
   My background includes studies in Data Science and Big Data, as well as specialized courses in various technologies.
 
